@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey!
 
 <!--
 **likeusb/likeusb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a student who is interested in a few things. The primary interest is Aviation and Gaming, but I also enjoy Photography, and also Coding.
+
+Currently, I don't have that much free time to do anything other than gaming and I also am not old enough for aviation, but I enjoy learning about topics related to my interests.
+
+The projects I'm currently working on are:
+- My photography site
+- A phone recommendation site
