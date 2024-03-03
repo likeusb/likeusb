@@ -20,5 +20,4 @@ I'm a student who is interested in a few things. The primary interest is Aviatio
 Currently, I don't have that much free time to do anything other than gaming and I also am not old enough for aviation, but I enjoy learning about topics related to my interests.
 
 The projects I'm currently working on are:
-- My photography site
-- A phone recommendation site
+- My own site
