@@ -1,23 +1,10 @@
 ### Hey!
 
-<!--
-**likeusb/likeusb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No clue what to put here.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm a student who is interested in a few things. The primary interest is Aviation and Gaming, but I also enjoy Photography, and also Coding.
-
-Currently, I don't have that much free time to do anything other than gaming and I also am not old enough for aviation, but I enjoy learning about topics related to my interests.
-
-The projects I'm currently working on are:
-- My own site
+Currently known languages:
+- HTML
+- CSS
+- JavaScript (Entry level)
+- Python (Entry level)
+- ArmA 3 SQF (Entry level)
